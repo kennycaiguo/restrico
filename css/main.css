@@ -1,4 +1,4 @@
-#header{
+ #header{
     height:60px;
     background-color: fuchsia;
 
@@ -15,7 +15,7 @@ body{
     height:60px;
     background-color: fuchsia;
 
-    margin-top: 800px;
+    margin-top: 600px;
 }
 
 #syxl,#syxl1,#syxl2,#syxl3,#syxl4,#syxl5{
@@ -35,5 +35,26 @@ body{
 
 p{
     align: center;
-    font-size: 30px;
+    font-size: 38px;
+}
+
+#face{
+    display: block;
+    font-size: 50px;
+}
+
+#address{
+    display: block;
+    font-size: 50px;
+    color:blue;
+}
+#tel{
+    display: block;
+    font-size: 50px;
+    color:blue;
+}
+
+
+td{
+    font-size: 24px;
 }
