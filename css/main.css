@@ -1,0 +1,39 @@
+#header{
+    height:60px;
+    background-color: fuchsia;
+
+}
+
+body{
+    background-color: aqua;
+}
+
+#body{
+
+}
+#footer{
+    height:60px;
+    background-color: fuchsia;
+
+    margin-top: 600px;
+}
+
+#syxl,#syxl1,#syxl2,#syxl3,#syxl4,#syxl5{
+    width:102px;
+    height: 44px;
+   margin-top: 2px;
+}
+
+#index,#recom,#contact,#event{
+    width:155px;
+    height:50px;
+     background-color: fuchsia;
+    color: yellow;
+    font-size: 20px;
+
+}
+
+p{
+    align: center;
+    font-size: 30px;
+}
