@@ -15,7 +15,7 @@ body{
     height:60px;
     background-color: fuchsia;
 
-    margin-top: 600px;
+    /*margin-top: 600px;*/
 }
 
 #syxl,#syxl1,#syxl2,#syxl3,#syxl4,#syxl5{
@@ -57,4 +57,9 @@ p{
 
 td{
     font-size: 24px;
+}
+
+#im1,#im2,#im3,#im4,#im5,#im6 {
+    width:200px;
+    height:300px;
 }
