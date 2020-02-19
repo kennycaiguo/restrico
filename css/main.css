@@ -14,7 +14,7 @@ body{
 #footer{
     height:60px;
     background-color: fuchsia;
-
+    padding-top: 10px;
     /*margin-top: 600px;*/
 }
 
@@ -59,7 +59,7 @@ td{
     font-size: 24px;
 }
 
-#im1,#im2,#im3,#im4,#im5,#im6 {
+#im1,#im2,#im3,#im4,#im5,#im6,#logo {
     width:200px;
     height:300px;
 }
